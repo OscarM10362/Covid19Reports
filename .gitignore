@@ -1,0 +1,25 @@
+# Archivos compilados
+*.class
+
+# Logs
+*.log
+
+# Archivos generados por IDEs
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+out/
+.vscode/
+
+# Maven
+/target/
+
+# Gradle
+/build/
+
+# Archivos empaquetados
+*.jar
+*.war
+*.ear
